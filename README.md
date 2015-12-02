@@ -2,7 +2,7 @@
 ## Länksamling från föreläsning om 3D
 
 * [Blender] - Open source (gratis) 3D-program
-* [Luxrender] - Fotorealistisks renderare till b la Blender
+* [Luxrender] - Fotorealistisk renderare till b la Blender
 
 [//]: #
 
